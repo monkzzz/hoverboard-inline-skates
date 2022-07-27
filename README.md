@@ -1,6 +1,6 @@
-# Hoverboard Inline Skates
+# RC Hoverboard Inline Skates
 
-Inline skates made with hoverboard wheels.
+Remote control inline skates made with hoverboard wheels.
 
 The hoverboard wheels electronics are based on GD32 microprocessors and are salvaged from the original hoverboard.
 
